@@ -25,7 +25,7 @@ Download and open the `.sb3` file using Scratch.
 
 ## Play Online
 https://scratch.mit.edu/projects/1318590628/
--**Note**: This game is designed for laptops and desktop computers since it uses keyboard arrow controls for movement, so the experience may not work properly on mobile or touchscreen devices.
+- **Note**: This game is designed for laptops and desktop computers since it uses keyboard arrow controls for movement, so the experience may not work properly on mobile or touchscreen devices.
 
 ## Future Improvements
 - Increasing difficulty
